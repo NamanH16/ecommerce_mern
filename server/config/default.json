@@ -1,0 +1,5 @@
+{
+    "dbURI": "mongodb+srv://ganondorf980:NwDuR5a9NI7PkgjW@cluster0.q6yv5w6.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"My_secret_auth_key",
+    "StripeAPIKey":"pk_test_51MpmhASCBxtuEcT4uJbsZ1fxMyKhQv6dacU9bK4mtbaXgDbDPveDAHyH2KgoIxX4I8ygACTi5jxQ87Aj4AtnOCun00wUnE2Pt0"
+}
